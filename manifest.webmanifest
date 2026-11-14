@@ -1,0 +1,13 @@
+{
+  "name": "WALI — Your Smart World",
+  "short_name": "WALI",
+  "description": "A multilingual home for ideas, culture and useful tools.",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d0e0d",
+  "theme_color": "#10100f",
+  "icons": []
+}
